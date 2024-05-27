@@ -1,49 +1,42 @@
 module.exports = {
   config: {
-    name: "pp",
-    version: "1.4",
+    name: "profile",
+    aliases: ["pfp", " pp"],
+    version: "1.1",
     author: "MR.AYAN",
     countDown: 5,
     role: 0,
-    shortDescription: {
-      vi: "",
-      en: "",
-    },
+    shortDescription: "PROFILE image",
+    longDescription: "PROFILE image",
+    category: "image",
+    guide: {
+      en: "   {pn} @tag"
+    }
   },
 
-  onStart: async function ({ event, message, usersData, args }) {
-    const { findUid } = global.utils;
-    const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
-    const regExMatchFB = /(?:https?:\/\/)?(?:www\.)?(?:facebook|fb|m\.facebook)\.(?:com|me)\/(?:(?:\w)*#!\/)?(?:pages\/)?(?:[\w\-]*\/)*([\w\-\.]+)(?:\/)?/i;
-    let avt;
-    let uid;
-
-    if (args.length > 0) {
-      const arg = args.join(" ");
-      if (regExMatchFB.test(arg)) {
-        const username = regExMatchFB.exec(arg)[1];
-        uid = await findUid(username);
-        if (!uid) {
-          message.reply({
-            body: "Could not find the UID of the user on Facebook",
-          });
-          return;
-        }
-      } else {
-        uid = Number(arg); // Convert the string to a number
-      }
-    } else if (event.mentions.length > 0) {
-      const uid2 = event.mentions[0].id;
-      uid = uid2;
-    } else {
-      uid = event.senderID;
+  langs: {
+    vi: {
+      noTag: "Bạn phải tag người bạn muốn tát"
+    },
+    en: {
+      noTag: "You must tag the person you want to get profile picture of"
     }
+  },
 
-    avt = await usersData.getAvatarUrl(uid);
+  onStart: async function ({ event, message, usersData, args, getLang }) {
+    let avt;
+    const uid1 = event.senderID;
+    const uid2 = Object.keys(event.mentions)[0];
+    if(event.type == "message_reply"){
+      avt = await usersData.getAvatarUrl(event.messageReply.senderID)
+    } else{
+      if (!uid2){avt =  await usersData.getAvatarUrl(uid1)
+              } else{avt = await usersData.getAvatarUrl(uid2)}}
+
 
     message.reply({
-      body: `UID: ${uid}`,
-      attachment: await global.utils.getStreamFromURL(avt),
-    });
-  },
+      body:"",
+      attachment: await global.utils.getStreamFromURL(avt)
+  })
+  }
 };
