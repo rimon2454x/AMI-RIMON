@@ -1,7 +1,7 @@
 module.exports = {
   config: {
     name: "profile",
-    aliases: ["pfp", " pp"],
+    aliases: ["pfp", "pp"],
     version: "1.1",
     author: "MR.AYAN",
     countDown: 5,
