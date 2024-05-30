@@ -11,8 +11,8 @@
 -   💬 ᴍʏ ɴɪᴄᴋɴᴀᴍᴇ ɪs ᴀʏᴀɴ🐰
 -   💬 ɪ ʜᴀᴠᴇ ᴀ 2ᴘᴇʀsᴏɴ ᴍʏ ᴍᴏᴍ ᴍʏ ᴅᴀᴅ
 -   💓 ʀᴇʟᴇᴛɪᴏɴsʜɪᴘ: sɪɴɢʟᴇ
--   🍁 𝐏𝐑𝐎𝐅𝐈𝐋𝐄: [𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊]([](https://www.facebook.com/NOOBS.DEVELOPER.AYAN))
--   🍀 𝐃𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐀𝐁𝐎𝐔𝐓 𝐈𝐌 𝐓𝐎 𝐌𝐔𝐂𝐇 𝐁𝐔𝐒𝐘 𝐌𝐘 𝐉𝐎𝐁
+-   🍁 ᴘʀᴏғɪʟᴇ: [ғᴀᴄᴇʙᴏᴏᴋ]([](https://www.facebook.com/NOOBS.DEVELOPER.AYAN))
+-   🍀 ᴅᴇsᴄʀɪʙᴇ ᴀʙᴏᴜᴛ ɪᴍ ᴛᴏ ᴍᴜᴄʜ ʙᴜsʏ ᴍʏ ᴊᴏʙ
 <hr>
 
 # 📖 Top Langs
@@ -26,7 +26,7 @@
 <p align="center">
 &nbsp; <a href="𝐍𝐀𝐈𝐈" target="_blank" rel="noopener noreferrer"><img src="https://www.facebook.com/NOOBS.DEVELOPER.AYAN" width="100" /></a>
 &nbsp; <a href="https://chat.whatsapp.com/𝐍𝐀𝐈𝐈" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" width="100" /></a>    
-&nbsp; <a href="https://github.com/alaminraj" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
+&nbsp; <a href="https://github.com/MR-AYAN-CHOWDHURY" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
 &nbsp; <a href="[(https://www.facebook.com/NOOBS.DEVELOPER.AYAN)]()" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
 &nbsp; <a href="mailto: mohammadayan55505@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
 </p>
