@@ -1,29 +1,37 @@
-<img src="https://i.imgur.com/UZBxOdf.jpeg" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot - Bot Chat Messenger</h1>
+## This Is A Protected Bot! If You Fork Without Permission Your Bot will Ban Automatically😗
 
-<p align="center">
-	<a href="https://nodejs.org/dist/v16.20.0">
-		<img src="https://img.shields.io/badge/Nodejs%20Support-16.x-brightgreen.svg?style=flat-square" alt="Nodejs Support v16.x">
-	</a>
-  <img alt="size" src="https://img.shields.io/github/repo-size/ntkhang03/Goat-Bot-V2.svg?style=flat-square&label=size">
-  <img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=code%20version&prefix=v&query=%24.version&url=https://github.com/ntkhang03/Goat-Bot-V2/raw/main/package.json&style=flat-square">
-  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=ntkhang3.Goat-Bot-V2">
-  <img alt="size" src="https://img.shields.io/badge/license-MIT-green?style=flat-square&color=brightgreen">
-</p>
+## For Using This Bot You Need To Subscribe My YouTube Channel.Than Join My Whatsapp group And Send Me Prove I will Give You Access Code.
+## I'm [ᴍʀ.ᴀʏᴀɴ] Also Know As 𝐋𝐨𝐠 𝐎𝐮𝐭                    Facebook Link 🔗        ([ᴍʀ.ᴀʏᴀɴ](https://www.facebook.com/NOOBS.DEVELOPER.AYAN)]🙎🏻‍♂️🖤
 
-- [📝 **Note**](#-note)
-- [🚧 **Requirement**](#-requirement)
-- [📝 **Tutorial**](#-tutorial)
-- [💡 **How it works?**](#-how-it-works)
-- [🔔 **How to get notification when have new update?**](#-how-to-get-notification-when-have-new-update)
-- [🆙 **How to Update**](#-how-to-update)
-- [🛠️ **How to create new commands**](#️-how-to-create-new-commands)
-- [💭 **Support**](#-support)
-- [📚 **Support Languages in source code**](#-support-languages-in-source-code)
-- [📌 **Common Problems**](#-common-problems)
-- [❌ **DO NOT USE THE ORIGINAL UNDERGRADUATE VERSION**](#-do-not-use-the-original-undergraduate-version)
-- [📸 **Screenshots**](#-screenshots)
-- [✨ **Copyright (C)**](#-copyright-c)
-- [📜 **License**](#-license)
+# 📰 Talking about Information
+<img align="right" width=200px alt="PNG" src="https://i.imgur.com/bP9oPhu.jpeg" />
 
+-   💋 ᴍʏ ɴᴀᴍᴇ ɪs ᴍʀ.ᴀʏᴀɴ🙎🏻‍♂️🖤
+-   ❤️‍🔥 19/03/2005
+-   💬 ᴍʏ ɴɪᴄᴋɴᴀᴍᴇ ɪs ᴀʏᴀɴ🐰
+-   💬 ɪ ʜᴀᴠᴇ ᴀ 2ᴘᴇʀsᴏɴ ᴍʏ ᴍᴏᴍ ᴍʏ ᴅᴀᴅ
+-   💓 ʀᴇʟᴇᴛɪᴏɴsʜɪᴘ: sɪɴɢʟᴇ
+-   🍁 𝐏𝐑𝐎𝐅𝐈𝐋𝐄: [𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊]([](https://www.facebook.com/NOOBS.DEVELOPER.AYAN))
+-   🍀 𝐃𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐀𝐁𝐎𝐔𝐓 𝐈𝐌 𝐓𝐎 𝐌𝐔𝐂𝐇 𝐁𝐔𝐒𝐘 𝐌𝐘 𝐉𝐎𝐁
 <hr>
+
+# 📖 Top Langs
+![](https://imgur.com/a/HkuD0bH)
+
+
+# 🤝🏻 Connect with Me
+
+
+# Click The Icon For link
+<p align="center">
+&nbsp; <a href="𝐍𝐀𝐈𝐈" target="_blank" rel="noopener noreferrer"><img src="https://www.facebook.com/NOOBS.DEVELOPER.AYAN" width="100" /></a>
+&nbsp; <a href="https://chat.whatsapp.com/𝐍𝐀𝐈𝐈" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" width="100" /></a>    
+&nbsp; <a href="https://github.com/alaminraj" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
+&nbsp; <a href="[(https://www.facebook.com/NOOBS.DEVELOPER.AYAN)]()" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
+&nbsp; <a href="mailto: mohammadayan55505@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
+</p>
+<br>
+<a href="#" target="_blank">
+	<img src="https://imgur.com/a/HkuD0bH" width="1200" alt="Click to see the source" />
+</a>  
+</a>
