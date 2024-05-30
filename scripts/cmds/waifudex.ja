@@ -10,9 +10,9 @@ module.exports = {
     threadStates: {},
     intervalID: null,
     config: {
-        name: "randommode",
+        name: "waifudex",
         version: "1.0",
-        author: "MR.AYAN",
+        author: "Vex_kshitiz",
         role: 2,
         shortDescription: "Guess the waifu!",
         longDescription: "Guess the waifu! and add it into your waifu collection",
