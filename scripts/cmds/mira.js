@@ -2,7 +2,7 @@ const axios = require("axios");
 
 module.exports = {
  config: {
- name: 'sim',
+ name: 'mira',
  version: '1.2',
  author: 'NIB | JARiF',
  countDown: 5,
