@@ -64,20 +64,36 @@ module.exports = {
     const ping = Date.now() - timeStart;
 
     const replyMessage = `(☆^𝐁𝐎𝐓 〒 𝐎𝐖𝐍𝐄𝐑 𝐈𝐍𝐅𝐎^☆)
+
+    
 ✧ ʙᴏᴛ ɴᴀᴍᴇ: ${botName}
+
 ✧ ʙᴏᴛ ᴘʀᴇғɪx: ${botPrefix}
+
 ✧ ᴀᴜᴛʜᴏʀ ɴᴀᴍᴇ: ${authorName}
+
 ✧ ғʙ ɪᴅ: ${authorFB}
+
 ✧ ɪɴsᴛᴀ: ${authorInsta}
+
 ✧ ᴀᴜᴛʜᴏʀ ᴇᴍᴀɪʟ: ${authorEmail}
+
 ✧ ᴀᴜᴛʜᴏʀ ɢɪᴛʜᴜʙ: ${authorGithub}
+
 ✧ sᴛᴀᴛᴜs: ${status}
+
 ✧ ᴅᴀᴛᴇ: ${date}
+
 ✧ ᴛᴏᴛᴀʟ ᴛʜʀᴇᴀᴅs: ${allThreads.length}
+
 ✧ ᴛᴏᴛᴀʟ ᴜsᴇʀs: ${allUsers.length}
+
 ✧ ᴛɪᴍᴇ: ${time}
+
 ✧ ʙᴏᴛ ʀᴜɴɴɪɴɢ: ${uptimeString}
+
 ✧ ʙᴏᴛ's sᴘᴇᴇᴅs: ${result} ᴍʙᴘs
+
 =======================`;
 
     const attachment = await global.utils.getStreamFromURL(link);
