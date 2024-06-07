@@ -30,13 +30,13 @@ module.exports = {
     arraytag.push({ id: id, tag: name });
 
     let Avatar = (await axios.get(`https://graph.facebook.com/${senderID}/picture?width=512&height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`, { responseType: "arraybuffer" })).data;
-    fs.writeFileSync(__dirname + "/cache/avt.png", Buffer.from(Avatar, "utf-8"));
+    fs.writeFileSync(__dirname + "/cache/avt.gif", Buffer.from(Avatar, "utf-8"));
 
     let gifLove = (await axios.get(`https://i.imgur.com/HI4fHEi.gif`, { responseType: "arraybuffer" })).data;
-    fs.writeFileSync(__dirname + "/cache/giflove.png", Buffer.from(gifLove, "utf-8"));
+    fs.writeFileSync(__dirname + "/cache/HI4fHEi.gif", Buffer.from(gifLove, "utf-8"));
 
     let Avatar2 = (await axios.get(`https://graph.facebook.com/${id}/picture?width=512&height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`, { responseType: "arraybuffer" })).data;
-    fs.writeFileSync(__dirname + "/cache/avt2.png", Buffer.from(Avatar2, "utf-8"));
+    fs.writeFileSync(__dirname + "/cache/avt2.gif", Buffer.from(Avatar2, "utf-8"));
 
     var imglove = [];
 
