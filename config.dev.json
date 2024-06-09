@@ -32,7 +32,7 @@
   "GENDER": "𝗠𝗔𝗟𝗘",
   "nickNameBot": "✧↠ ᴀʏᴀɴ-ʀᴏʙᴏᴛ ↞✧",
   "authorFB": "https://m.me/NOOBS.DEVELOPER.AYAN",
-  "prefix": "°",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
