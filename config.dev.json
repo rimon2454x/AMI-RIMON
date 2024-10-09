@@ -17,8 +17,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61551774501334",
-    "",
+    "61552209843370",
+    "100085457504731",
     ""
   ],
   "whiteListMode": {
@@ -26,13 +26,13 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "authorName": "𝗠𝗥 𝗔𝗬𝗔𝗡",
-  "authorEmail": " mr.ayan.2x@gmqil.com",
+  "authorName": "𝗠𝗥 𝗥𝗜𝗠𝗢𝗡",
+  "authorEmail": "rimon2454a@gmail.com",
   "AGE": "18",
   "GENDER": "𝗠𝗔𝗟𝗘",
-  "nickNameBot": "✧↠ ᴀʏᴀɴ-ʀᴏʙᴏᴛ ↞✧",
-  "authorFB": "https://m.me/NOOBS.DEVELOPER.AYAN",
-  "prefix": ".",
+  "nickNameBot": "✧𝗠𝗥-𝗥𝗶𝗺𝗼𝗻",
+  "authorFB": "https://www.facebook.com/profile.php?id=61552209843370",
+  "prefix": "!",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
